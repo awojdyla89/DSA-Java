@@ -14,6 +14,13 @@ Output: [1,2]
 Input: nums = [3,3], target = 6
 Output: [0,1]
 */
+
+/*
+Time = O(n) worst case we search the entire nums array
+space = O(n) for storing nums in a data structure
+*/
+
+
 import java.util.Arrays;
 import java.util.HashMap;
 

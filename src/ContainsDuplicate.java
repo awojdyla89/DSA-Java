@@ -13,6 +13,15 @@ Input: nums = [1,1,1,3,3,4,3,2,4,2]
 Output: true
 */
 
+/*
+create a hashmap to store key:value of number: count
+if we come across a number that is seen again we increment the count
+if the count >= 2 then we know we found a number that matches the criteria.
+
+Time = O(n) Worst case we traverse the entire nums array and find no duplicates
+ Space = O(n) Worst case adding all unique numbers to hashmap
+ */
+
 import java.util.HashMap;
 
 public class ContainsDuplicate {
