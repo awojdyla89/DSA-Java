@@ -4,3 +4,4 @@
 ## Implemented:
 1. Two Sum
 2. Contains Duplicate
+3. Valid Parenthesis
