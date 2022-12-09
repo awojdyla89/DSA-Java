@@ -5,3 +5,4 @@
 1. Two Sum
 2. Contains Duplicate
 3. Valid Parenthesis
+4. Valid Anagrams
