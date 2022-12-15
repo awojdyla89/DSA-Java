@@ -1,3 +1,10 @@
 # Default ignored files
 /shelf/
 /workspace.xml
+
+# added to gitignore
+/misc.xml
+/modules.xml
+/vcs.xml
+../java_algos.iml
+
