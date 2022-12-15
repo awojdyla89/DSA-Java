@@ -7,3 +7,4 @@
 3. Valid Parenthesis
 4. Valid Anagrams
 5. Best Time To Buy Sell Stock
+6. Contains String / Integer value
