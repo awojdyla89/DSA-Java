@@ -4,23 +4,7 @@ import java.util.Arrays;
 
 public class ContainsStringInt {
 
-    /** Linear Search
-     * Given an array of numbers and a target value
-     * return true or false if the target value is in the array.
-     * Time Complexity: O(n) where n is the size of the array being compared to.
-     * Space Complexity: O(1) the size of the array is fixed, no extra memory is allocated (data structure)
-     * @param nums - an array of integers.
-     * @param target -  target value.
-     * @return boolean if target found in array.
-     */
-    public boolean containsInt(int[] nums, int target) {
-        for (int num : nums) {
-            if (num == target) {
-                return true;
-            }
-        }
-        return false;
-    }
+
 
     /** Linear Search
      * Given an array of strings and a target value
@@ -68,6 +52,25 @@ public class ContainsStringInt {
                 low = mid + 1;
             } else {
                 high = mid - 1;
+            }
+        }
+        return false;
+    }
+
+    /** HOW TEO CHECK IF ARRAY CONTAINS GIVEN NUMBER
+     * Linear Search
+     * Given an array of numbers and a target value
+     * return true or false if the target value is in the array.
+     * Time Complexity: O(n) where n is the size of the array being compared to.
+     * Space Complexity: O(1) the size of the array is fixed, no extra memory is allocated (data structure)
+     * @param nums - an array of integers.
+     * @param target -  target value.
+     * @return boolean if target found in array.
+     */
+    public boolean containsInt(int[] nums, int target) {
+        for (int num : nums) {
+            if (num == target) {
+                return true;
             }
         }
         return false;
