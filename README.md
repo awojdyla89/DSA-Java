@@ -8,3 +8,7 @@
 4. Valid Anagrams
 5. Best Time To Buy Sell Stock
 6. Contains String / Integer value
+7. Ransom Note
+8. Container With Most Water
+9. Reverse Array In Place
+10. 
