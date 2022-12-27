@@ -11,4 +11,6 @@
 7. Ransom Note
 8. Container With Most Water
 9. Reverse Array In Place
-10. 
+10. Find Three Largest Numbers (With Duplicates)
+11. Valid Palindrome
+12. Reverse Vowels In a String
