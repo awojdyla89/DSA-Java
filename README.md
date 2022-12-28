@@ -14,3 +14,6 @@
 10. Find Three Largest Numbers (With Duplicates)
 11. Valid Palindrome
 12. Reverse Vowels In a String
+13. Bubble Sort
+14. Insertion Sort
+15. 
